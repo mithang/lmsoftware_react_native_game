@@ -1,0 +1,3 @@
+- Nếu file html và resoule đơn giản thì có thể load lên webview, hoặc copy tất cả bảo vào đúng một file rồi load lên webview
+- Nều framework yêu cầu load các asset phải là http thì upload cái asset lên thôi, còn file html có thể cũng load local hoặc upload toàn bộ lên, sau đó lấy link cho an toàn
+Phaser yêu cầu phải load asset phải http
